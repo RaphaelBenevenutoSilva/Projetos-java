@@ -41,4 +41,4 @@ Esta classe funciona como o **maestro** da aplicação.
 **Raphael Benevenuto Silva**
 *   Aspiring Backend Developer | Java.
 *   Cursando Análise e Desenvolvimento de Sistemas (UNIMETROCAMP Wyden).
-*   Focado em construir bases sólidas em lógica e Orientação a Objetos.
+
