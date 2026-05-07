@@ -39,9 +39,9 @@ Esta classe funciona como o **maestro** da aplicação.
 
 ```bash
 👨‍💻 Autor
-Raphael Benevenuto Silva**
-Aspiring Backend Developer | Java.
-Cursando Análise e Desenvolvimento de Sistemas (UNIMETROCAMP Wyden).
+Raphael Benevenuto Silva
+Aspiring Backend Developer | Java
+Cursando Análise e Desenvolvimento de Sistemas (UNIMETROCAMP Wyden)
 
 
 
