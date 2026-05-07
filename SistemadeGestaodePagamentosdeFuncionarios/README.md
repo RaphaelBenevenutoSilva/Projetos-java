@@ -33,3 +33,7 @@ Funcionario.java
 Gerente.java
 Desenvolvedor.java
 SistemadeGestaodePagamentosdeFuncionarios.java
+
+👨‍💻 Autor
+
+Raphael Benevenuto
