@@ -34,6 +34,10 @@ Gerente.java
 Desenvolvedor.java
 SistemadeGestaodePagamentosdeFuncionarios.java
 
-👨‍💻 Autor
+▶ Exemplo de Saída
+Funcionario Nome = Cleber
+| Salário = 4,000.00
+| Bônus: R$ 800.00
 
+👨‍💻 Autor
 Raphael Benevenuto
