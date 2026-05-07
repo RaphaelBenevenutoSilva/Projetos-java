@@ -15,8 +15,8 @@ Projeto desenvolvido em Java para praticar conceitos fundamentais de POO atravé
 - Uso de Herança e Polimorfismo- Classe abstrata (`Funcionario`)
 - - Sobrescrita de métodos (`@Override`)- Encapsulamento com getters e setters
 - - Cálculo de bônus por tipo de funcionário
-    - ---
-    - 🛠 **Tecnologias:**  Java • POO • Collections • ArrayList • Tratamento de Exceções
+- ---
+- 🛠 **Tecnologias:**  Java • POO • Collections • ArrayList • Tratamento de Exceções
     
 ---
 *Acompanhamento contínuo: novos projetos e estudos em Backend Java/Spring Boot sendo adicionados conforme minha evolução.*
