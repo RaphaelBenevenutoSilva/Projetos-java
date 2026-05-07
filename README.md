@@ -13,8 +13,8 @@ Um gerenciador completo via console que aplica conceitos fundamentais de arquite
 💼 **Sistema de Gestão de Pagamentos de Funcionários**  
 Projeto desenvolvido em Java para praticar conceitos fundamentais de POO através do gerenciamento de funcionários e cálculo de bônus.
 - Uso de Herança e Polimorfismo - Classe abstrata (`Funcionario`)
- - -- Sobrescrita de métodos (`@Override`)- Encapsulamento com getters e setters
-  - -- Cálculo de bônus por tipo de funcionário
+ -  Sobrescrita de métodos (`@Override`)- Encapsulamento com getters e setters
+  -  Cálculo de bônus por tipo de funcionário
 - ---
 - 🛠 **Tecnologias:**  Java • POO • Collections • ArrayList • Tratamento de Exceções
     
